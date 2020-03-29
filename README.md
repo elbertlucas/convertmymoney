@@ -1,7 +1,7 @@
 # ConvertMyMoney initial project
 A simple project to convert a dollar value to real
 
-![ConvertMyMoney](\public\images\ConvertMyMoney.png "ConvertMyMoney app")
+![](./public/images/ConvertMyMoney.png)
 
 
 # Get Started
@@ -13,4 +13,4 @@ npm i
 node ./index.js
 ```
 
-Thank you!
+Thank you!{
